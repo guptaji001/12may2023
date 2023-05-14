@@ -1,0 +1,26 @@
+/* .dg_cont {
+    height: 1200px;
+    border: 2px dashed red;
+} */
+
+header {
+    height: 110px;
+    background-color: #9933CC;
+    /* border: 2px dashed blue; */
+}
+
+main {
+    height: 800px;
+    /* border: 2px dashed orange; */
+}
+
+footer {
+    height: 69px;
+    background-color: #0099CC;
+    /* border: 2px dashed green; */
+}
+
+/* Temparory Border = tbr */
+/* .dg_tbr {
+    border: 1px dashed black;
+} */
